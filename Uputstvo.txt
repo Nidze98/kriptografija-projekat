@@ -1,0 +1,5 @@
+1.U okruzenju otvoriti folder moj_projekat pa iz njega otvoriti kripto_projekat i klase
+2. U folder Upload_cert treba staviti sertifikat sa kojim se zelimo prijaviti
+3. u folder Upload_files trebamo staviti fajl koji zelimo smjestiti na repozitorijum
+4. U folder downloads ce biti smjesteni fajlovi koje skinemo sa repozitorijuma
+5. sadrzaj gore navedenih foldera se automatski brisem nakon sto se korisnik odjavi.
